@@ -1,4 +1,5 @@
-GUI/Keyboard Rock Paper Scissors - Written in Haskell!
+<b>GUI/Keyboard Rock Paper Scissors - Written in Haskell!</b>
+
 
 If you want to run the code, you can do the following:
 
